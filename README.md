@@ -8,10 +8,6 @@ This Excel-based dashboard project provides a visual and analytical overview of 
 
 ## File Details
 
-**Filename:** `Bike Sales - Excel Dashboard Project.xlsx`
-
-**Contents:**
-
 * **Raw Data Sheet:** Contains customer demographics and purchase data.
 * **Data Cleaning Sheet (if any):** Preprocessed data for analysis.
 * **Pivot Tables/Charts:** Used for dynamic analysis.
